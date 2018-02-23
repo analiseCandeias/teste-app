@@ -9,7 +9,7 @@ Você poderá utilizar quaisquer bibliotecas que julgar necessárias. Testes de 
 
 Exemplo de requisição para o serviço:
 
-https://teste-vaga.clubecandeias.com/v1/hotels/autocomplete?search=Curitiba
+https://dev.clubecandeias.com/v1/hotels/autocomplete?search=Curitiba
 
 Exemplo de resposta:
 
