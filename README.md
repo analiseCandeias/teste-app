@@ -21,18 +21,6 @@ Exemplo de resposta:
             "hotel_id": null,
             "value": "Curitiba, Brasil",
             "english_value": "Curitiba, Brazil"
-        },
-        {
-            "id": null,
-            "hotel_id": null,
-            "value": "IBIS BUDGET CURITIBA",
-            "english_value": ""
-        },
-        {
-            "id": null,
-            "hotel_id": null,
-            "value": "CASA CURITIBA Nº 182",
-            "english_value": ""
         }
     ]
 }
